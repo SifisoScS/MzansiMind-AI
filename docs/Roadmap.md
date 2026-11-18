@@ -1,5 +1,7 @@
 # Roadmap
 
+![MzanziMind AI master roadmap: phases 0–12 from foundation through Pan-African expansion, with the 2027–2035 vision](../branding/Roadmap_Overview.png)
+
 ## Phase 1 (Year 1)
 
 MVP Development
