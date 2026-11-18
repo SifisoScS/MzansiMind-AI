@@ -66,6 +66,6 @@ This repository currently contains the project blueprint, documentation, and org
 - [Technical Architecture](docs/Technical_Architecture.md)
 - [Cybersecurity Framework](docs/Cybersecurity_Framework.md)
 - [Governance](docs/Governance.md)
-- [Roadmap](docs/Roadmap.md)
+- [Master Roadmap & Checklist](docs/Roadmap.md)
 
 The [roadmap overview image](branding/Roadmap_Overview.png) presents the phases from the project foundation through Pan-African expansion. The dedicated mission-and-vision illustration above is a separate visual.
