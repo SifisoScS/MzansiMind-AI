@@ -1,6 +1,6 @@
 # MzanziMind AI
 
-![MzanziMind AI master roadmap: phases 0–12 from foundation through Pan-African expansion, with the 2027–2035 vision](branding/Roadmap_Overview.png)
+![MzanziMind AI mission and vision: South Africans learning together, building skills, growing careers, and creating opportunity with AI mentorship](branding/MzanziMind_AI_Vision_Mission.png)
 
 ## Vision
 
