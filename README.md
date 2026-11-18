@@ -67,5 +67,3 @@ This repository currently contains the project blueprint, documentation, and org
 - [Cybersecurity Framework](docs/Cybersecurity_Framework.md)
 - [Governance](docs/Governance.md)
 - [Master Roadmap & Checklist](docs/Roadmap.md)
-
-The [roadmap overview image](branding/Roadmap_Overview.png) presents the phases from the project foundation through Pan-African expansion. The dedicated mission-and-vision illustration above is a separate visual.

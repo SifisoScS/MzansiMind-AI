@@ -1,8 +1,6 @@
 # MzanziMind AI Master Roadmap
 ### *AI-Native Development Roadmap for Developers, AI Agents, Contributors, and Future Teams*
 
-![MzanziMind AI master roadmap: phases 0–12 from foundation through Pan-African expansion, with the 2027–2035 vision](../branding/Roadmap_Overview.png)
-
 This roadmap is designed so that **any developer, AI coding agent, Copilot, Cursor, Claude Code, GPT Engineer, or software team** can build the platform from zero to production.
 
 ---
